@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "ggg",
+  "main": "index.js",
+  "scripts": {
+    "test": "tttt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdlee390778266/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdlee390778266/test/issues"
+  },
+  "homepage": "https://github.com/cdlee390778266/test#readme"
+}
